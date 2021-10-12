@@ -1,0 +1,11 @@
+.titulo{
+    font-family:cursive ;
+    color: red;
+    text-align: center;
+}
+
+.linhas{
+    display: flex;
+    margin-top:50px;
+    justify-content: space-around;
+}
